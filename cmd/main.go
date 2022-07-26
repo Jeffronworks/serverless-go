@@ -8,6 +8,7 @@ import (
 	"github.com/aws/aws-lamda-go/lamda"
 	"github.com/aws/aws-lamda-go/events"
 	"github.com/aws/aws-skd-go/aws/session"
+	"github.com/jeffronworks/serverless-go/pkg/handlers"
 )
 
 func main() {
